@@ -19,7 +19,7 @@ This script automates Google searches using dorks while rotating NordVPN servers
 
 
 ## Disclaimer
-	This script is provided for educational purposes only.
+This script is provided for educational purposes only.
 The author is not responsible for any misuse or illegal activity performed using this script.
 
 Use at your own risk.
