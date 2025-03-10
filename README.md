@@ -11,3 +11,5 @@ This script automates Google searches using dorks while rotating NordVPN servers
 1. Install required dependencies:
    ```bash
    pip install -r requirements.txt
+
+
