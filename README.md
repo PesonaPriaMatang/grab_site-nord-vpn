@@ -12,15 +12,16 @@ This script automates Google searches using dorks while rotating NordVPN servers
    ```bash
    pip install -r requirements.txt
 
-echo "## Usage" >> README.md
-echo "Run the script with:" >> README.md
-echo "\`\`\`bash" >> README.md
-echo "python grab_site_nord.py" >> README.md
-echo "\`\`\`" >> README.md
+## Usage
+1. Run the script with:
+ ```bash
+   python grab_site_nord.py
 
-echo "## Disclaimer" >> README.md
-echo "This script is provided for **educational purposes only**." >> README.md
-echo "The author is **not responsible** for any misuse or illegal activity performed using this script." >> README.md
-echo "**Use at your own risk.**" >> README.md
+-If you get a 429 Too Many Requests error, the script will automatically change the NordVPN server and retry.
 
+## Disclaimer
+This script is provided for educational purposes only.
+The author is not responsible for any misuse or illegal activity performed using this script.
+
+Use at your own risk.
 
